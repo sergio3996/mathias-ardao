@@ -5,4 +5,5 @@ export default {
     emailUser: process.env.EMAIL_USER,
     emailPassword: process.env.EMAIL_PASSWORD,
   },
+  port: process.env.PORT,
 };
